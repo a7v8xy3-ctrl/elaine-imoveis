@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #0a0a0a;
+  color: white;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background: black;
+}
+
+header h1 {
+  color: gold;
+}
+
+nav a {
+  color: white;
+  margin-left: 20px;
+  text-decoration: none;
+}
+
+.hero {
+  height: 90vh;
+  background: url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c') center/cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.overlay {
+  background: rgba(0,0,0,0.6);
+  padding: 40px;
+  text-align: center;
+}
+
+.btn-gold {
+  background: linear-gradient(135deg, #d4af37, #ffd700);
+  color: black;
+  padding: 12px 25px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.section {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px,1fr));
+  gap: 20px;
+}
+
+.card {
+  background: #111;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.whatsapp-float {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  background: gold;
+  color: black;
+  padding: 15px;
+  border-radius: 50%;
+}
