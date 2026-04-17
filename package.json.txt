@@ -1,0 +1,8 @@
+{
+  "name": "extrair-imoveis",
+  "version": "1.0.0",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  }
+}

@@ -1,0 +1,33 @@
+const axios = require("axios");
+const cheerio = require("cheerio");
+const fs = require("fs");
+
+const URL = "https://www.canaaimoveisangra.com.br/venda";
+
+async function scrape() {
+  const { data } = await axios.get(URL);
+  const $ = cheerio.load(data);
+
+  const imoveis = [];
+
+  $(".property-item").each((i, el) => {
+    const titulo = $(el).find(".title").text().trim();
+    const preco = $(el).find(".price").text().trim();
+    const link = $(el).find("a").attr("href");
+    const imagem = $(el).find("img").attr("src");
+
+    imoveis.push({
+      id: i,
+      titulo,
+      preco,
+      link,
+      imagem,
+      whatsapp: `https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20${titulo}`
+    });
+  });
+
+  fs.writeFileSync("data/imoveis.json", JSON.stringify(imoveis, null, 2));
+  console.log("Imóveis salvos em data/imoveis.json");
+}
+
+scrape().catch(console.error);
