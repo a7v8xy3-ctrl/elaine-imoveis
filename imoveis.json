@@ -1,8 +1,234 @@
 [
   {
-    "titulo": "Teste",
-    "descricao": "Imóvel de teste",
-    "preco": "R$ 1.000.000",
-    "imagem": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c"
+    "titulo": "Super destaque",
+    "descricao": "Super destaque\nMobiliado\nCasa de Condomínio\nPontal (Cunhambebe)\nCondomínio Marbella, Angra dos Reis - RJ\n450m²\n5 quartos",
+    "preco": "R$ 3.000.000",
+    "imagem": "https://s01.jetimgs.com/tnkmRJ8vb8l2owt5NUrzQ2Rv4pto4yw_MjEddM5vIvQ4gzpLSm9pdwKbUW8iXnlwmZyHVCZYvLurNZ5cKPRd4p8R2-pRSMw5kwUHOU3Uspn4Ph3SNSvInMe7Q204YjgodS-nHynTgLQrLzjOo0A3E_v0QPJO_kIIMmkDjshuep1WGcn5hhXY/photo-2022-08-19-18-51-252jpg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Super%20destaque"
+  },
+  {
+    "titulo": "Casa de Condomínio",
+    "descricao": "Casa de Condomínio\nZona Rural\n000, Mangaratiba - RJ\n1.500m²\n6 quartos\n7 banheiros\n4 vagas\nComprar\nR$ 24.900.000",
+    "preco": "R$ 24.900.000",
+    "imagem": "https://s01.jetimgs.com/tnkmRA8uL9l2ozsZ19NriSL3qDP43-e9kEDgEVuAunpwEitb6Sc62U6exXNr-yvFLkZBPvKqNS32GW7f-LVuGcshP-tfpC9MYGUjP8jnJfk4OwD-52M_TmdInwgqT2w3jlnI9bRKjtNTyDOhHjjmewvpFVM9xiTKRH-3ScH8oN03XdOT1Q/img9028jpeg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Casa%20de%20Condom%C3%ADnio"
+  },
+  {
+    "titulo": "Casa de Condomínio",
+    "descricao": "Casa de Condomínio\nZona Rural\nPortobello, Mangaratiba - RJ\n600m²\n5 quartos\n5 banheiros\n3 vagas\nComprar\nR$ 12.000.000",
+    "preco": "R$ 12.000.000",
+    "imagem": "https://s01.jetimgs.com/tnkmRPUvb9l2owt5LfJLePKL_dJd6k0Y75lqXGjL14oYqhN0dtjKI8MDwhFnqMLsTtQP4-uTX9gRRuT3aZNKbEWPXdw2WlNH4QwXdwnoNyHixG0d4u2CnW9xAacPQjmO7r6irjdY4AQ-IHtbi-md_2iyYxQ3NMOIVF5OMEe2F-y3yd1Hhyk/portobellomrio6jpg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Casa%20de%20Condom%C3%ADnio"
+  },
+  {
+    "titulo": "Casa",
+    "descricao": "Casa\nVila Velha\nEstrada Vereador Benedito Adelino, Angra dos Reis - RJ\n500m²\n5 quartos\n8 banheiros\n3 vagas\nComprar\nR$ 14",
+    "preco": "R$ 14.999.900",
+    "imagem": "https://s01.jetimgs.com/tnkmRP8vb9lyowt5LfJLcAoIwzWnthM_sDqf3D0yNZTjr79UJsoPbV1QXGoxgK5-BUf88Cpeet9YqWP_63LfZuQbRytE2ZzIfU-fRI84VVjUKNK56g54zdIlo0RPgjSL5XlBSBWc8ISesDe4ysg_n5MTlVTeGu4nxP_pjExmfZOSGOPI87la/dji202405201254140114djpg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Casa"
+  },
+  {
+    "titulo": "Mobiliado",
+    "descricao": "Mobiliado\nCasa\nIlha Grande\nIlha do Maná, Angra dos Reis - RJ\n575m²\n5 quartos\n5 banheiros\nComprar\nConsulte",
+    "preco": "Consulte",
+    "imagem": "https://s01.jetimgs.com/tnkmRAMub8l6ozsZx2IL9DN5dm052-fNKBkdtH0mWXgh5Sjd2bu0qn-shXC351mEio7JHoZidByLZIl04d7t7op4DS7BVzhcftlzF6idMXz_gqYLwiIx4JpfrK02esofM97-FoJeglzryWwDumIIfSOPxOBGKz5zvVPiHDuOGlm37IWvM9g/img8867jpeg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Mobiliado"
+  },
+  {
+    "titulo": "Mobiliado",
+    "descricao": "Mobiliado\nCasa de Condomínio\nMombaça\nRodovia Procurador Haroldo Fernandes Duarte, Angra dos Reis - RJ\n400m²\n4 quartos\n6 ",
+    "preco": "R$ 5.700.000",
+    "imagem": "https://s01.jetimgs.com/tnkmRI8vb8l6oztxNUrzQ_ptJf__L69eOrulM85vItSzrKxb6Sc62U75ZtqzNgSHu2scXpsj9wX2p6ykJqnq0bqwSyKlgUYWl86TF6Tut3snq46Lg4J94JgyLe8PURp-zUBlk-KYiqj7_mYDumKzGctd-wggDKhpM6kLvJGYF522M2qeZGY/img3249jpeg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Mobiliado"
+  },
+  {
+    "titulo": "Casa de Condomínio",
+    "descricao": "Casa de Condomínio\nPortogalo\nCondomínio Portogalo, Angra dos Reis - RJ\n1.000m²\n10 quartos\n11 banheiros\n5 vagas\nComprar\nR",
+    "preco": "R$ 29.999.900",
+    "imagem": "https://s01.jetimgs.com/tnkmRPUvb9l2owt5LfJL-M-E_TIv86pe71meh1qdky_4bMEDt3LuvO36lEl15HkQQCKjM-tAXSPAmr7YspDfb12M584H_pvBPDcPvZwml7Y8JkYV4u8S0_hWHme6UDX0JuxwITbZUQYbIMsSJCje_KPZdq_fT_ZQTRbicS-2GPe2YWqjnxY/img8855jpg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Casa%20de%20Condom%C3%ADnio"
+  },
+  {
+    "titulo": "Casa de Condomínio",
+    "descricao": "Casa de Condomínio\nPontal (Cunhambebe)\nAvenida do Canto, Angra dos Reis - RJ\n300m²\n5 quartos\n7 banheiros\n3 vagas\nComprar",
+    "preco": "R$ 5.500.000",
+    "imagem": "https://s01.jetimgs.com/tnkmRPUvb9l2owt5LfJLcAINgylhM07ZapmEIk0Fjzr535Bds46-vrsOmh8nWIYaJdIDWgwxL5yuS-FBounLVZoNuLpk4qL0S0DPFr0v_-zc98FshUekZM_gP6aKOVJt3K6t1Xbaj4-4xeoEP2o6jPGzU9N5uDcQ_eo7EuXy0Nw3n73D3g/2d6b9eb9-9186-4aa8-8616-309baba857cfjpeg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Casa%20de%20Condom%C3%ADnio"
+  },
+  {
+    "titulo": "Casa",
+    "descricao": "Casa\nRetiro (Cunhambebe)\nAvenida Vereador Benedito Adelino, Angra dos Reis - RJ\n350m²\n4 quartos\n5 banheiros\n8 vagas\nComp",
+    "preco": "R$ 3.500.000",
+    "imagem": "https://s01.jetimgs.com/tnkmRJMvb8l6owtxNUqzTi-jz9ff8vLNxlUbKTRgn-7bnQWniJgpYkAAo9YfCfI0Bvl_1mVq627Wn-LnmKlsAcncMJspjgL5ivaJXcNCHNZmPjqTInutbzVNa7WC0vgBjVEzrNQ-T2ld7-_z7kDTDHenaQtT-nKoLs8T6hucGZ63g49_m1I/20220404151418062iosjpeg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Casa"
+  },
+  {
+    "titulo": "Mobiliado",
+    "descricao": "Mobiliado\nCasa de Condomínio\nItanema (Cunhambebe)\nRod. Rio santos, Angra dos Reis - RJ\n600m²\n10 quartos\n11 banheiros\n4 v",
+    "preco": "R$ 24.000.000",
+    "imagem": "https://s01.jetimgs.com/tnkmRI8vb8l6oztxNUrzQ3Dl3BlHe04AMqOlM85P88ARrg2niGghdkH0pxBdKgb0x_NsmpCGjNe5GDjvxtzcHOivsbU7VCGCjb0ojy66dI3HPjuDIHLZWrPc7VfSZGI4_54fOP0jPzyRiQbGlvRtyD90ZMzM21-pU-cvBevpSdzyv4r8fw/20220419144134463iosjpeg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Mobiliado"
+  },
+  {
+    "titulo": "Mobiliado",
+    "descricao": "Mobiliado\nCasa de Condomínio\nItanema (Cunhambebe)\nRod. Rio santos, Angra dos Reis - RJ\n700m²\n12 quartos\n12 banheiros\n6 v",
+    "preco": "R$ 27.000.000",
+    "imagem": "https://s01.jetimgs.com/tnkmRJMvL9l2oztxvRIDGFpHTK9q1fKNthibKTjXAisB5qxa6SckP4kbnh0zB2gLtyq43ksB8AEpbLmmQLQXSgmTJvZGT7nAPYHMnZUA_-xQ9S5YlJfcbOmiP3HOau80VTav1nb6jtJuKjN2vS1sjJ0ZlvlvS3HV0HbpL9jGFKa2Rc1Y-b4/20220419170628464iosjpeg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Mobiliado"
+  },
+  {
+    "titulo": "Mobiliado",
+    "descricao": "Mobiliado\nCasa de Condomínio\nZona Rural\nPortobello, Mangaratiba - RJ\n1.200m²\n7 quartos\n10 banheiros\n20 vagas\nComprar\nR$ ",
+    "preco": "R$ 18.000.000",
+    "imagem": "https://s01.jetimgs.com/tnkmRJMvL9l2oztxvRIDGpr_2D6AdwYIwKbulR6_pb48cmLaMu8mbsvmIKcAYdMQuM6j5-1EYwDASiZ3eJAKuGKTi1nGwVMJ-o7yVp4Ul0cq80BibZPAC_f4v-UyRT9xbxne-PTJcQUj-Be8HWuafTADlFBmNENsfDOaFwp2IJutGVIy9-ww/djifly202209081156084141662648987214photojpg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Mobiliado"
+  },
+  {
+    "titulo": "Casa de Condomínio",
+    "descricao": "Casa de Condomínio\nMombaça\nRodovia Procurador Haroldo Fernandes Duarte, Angra dos Reis - RJ\n650m²\n7 quartos\n8 banheiros\n",
+    "preco": "R$ 23.000.000",
+    "imagem": "https://s01.jetimgs.com/tnkmRPUvb9l2owt5LfJLY8SA_XG4tksZO-hYiu8YIKjUFltdso6-vrsOkt6nCXuzHQXBRdg51jqeiAJkRaa25tSYxDSlNdCz2ffDUhXWDVzZKCO1a5pkq9wntgJAlGr0iFMDQ0nJ1sQfiIrKo0BX-FP3XIJ2HINhm5Z3f5zGEUK27yVEX-o/20220311135317013iosjpeg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Casa%20de%20Condom%C3%ADnio"
+  },
+  {
+    "titulo": "Casa de Condomínio",
+    "descricao": "Casa de Condomínio\nRetiro (Cunhambebe)\nEstrada Vereador Benedito Adelino, Angra dos Reis - RJ\n150m²\n3 quartos\n3 banheiro",
+    "preco": "R$ 1.950.000",
+    "imagem": "https://s01.jetimgs.com/tnkmRJ8vL9l2owt5vRID-oxecXt3U89dGZt7dPNFA2vz8Cpb6ScnOGz-Zh6j-5sEy6La3lNiAsqgjot74Dzlj4R_DK731S8uEN6XG5V5DROX0J-dhBK_bvd9oTLv7DIGi2JbbOY6b9653tPbqhjJYSuHW4gv_5ssnu03ecH_a9yo5jiJoQ/salajpeg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Casa%20de%20Condom%C3%ADnio"
+  },
+  {
+    "titulo": "Casa de Condomínio",
+    "descricao": "Casa de Condomínio\nItanema (Cunhambebe)\nRod. Rio santos, Angra dos Reis - RJ\n602m²\n6 quartos\n8 banheiros\n3 vagas\nComprar",
+    "preco": "Consulte",
+    "imagem": "https://s01.jetimgs.com/tnkmRP8vb9lyowt5LfJLeLKTtjtopogT7mhZRT1t1gIVqgcIluDGyh9mLpDv-HMDT-0XR7pyPhjNZLu1ROYS_GY4je0WvALQD3nBf8FlkXvYMLzav8NsqshmPqZBHupMpWieL8vCo2RAi5oHlDgHlHWwOwRzfJiZ0pBVBuvqpt-AZbREjA/51-img0088jpg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Casa%20de%20Condom%C3%ADnio"
+  },
+  {
+    "titulo": "Mobiliado",
+    "descricao": "Mobiliado\nCasa de Condomínio\nBracuí (Cunhambebe)\nRodovia Procurador Haroldo Fernandes Duarte, Angra dos Reis - RJ\n1.300m",
+    "preco": "R$ 44.000.000",
+    "imagem": "https://s01.jetimgs.com/tnkmRH8vLtl2owtNQHI_SwobU5sJ5wgaxY_pf78goEjH1xB-d58mcOY4-NqnmT2rnY7Qedg11hoSyM5lNSaCH776o-2WvnZo2XxgD2sQsdS7eB8otU6nsLX772xERLjm_a6OZdAWD99ei0HIlkwDVgBd1aLFxvTTmPLFrYacUt3VIvn8/105-img9402jpg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Mobiliado"
+  },
+  {
+    "titulo": "Mobiliado",
+    "descricao": "Mobiliado\nCasa\nIlha Grande\nIlha da Gipoia, Angra dos Reis - RJ\n1.000m²\n8 quartos\n10 banheiros\n5 vagas\nComprar\nR$ 40.000.",
+    "preco": "R$ 40.000.000",
+    "imagem": "https://s01.jetimgs.com/tnkmRJMvb8l2oztxNUrzs4RfSCMgs3CZWnlsuxzUSPui3CNWiB8b84OWNHQhPJjNef6DWMYGvEuJtbdcImx4vQGJEWg85aXoTfeyWA2tosLbOD3yoaKxPBIML7cYijux6LLBAZPYjFhuSekEP8qVhIdwlKZdZiQcDxUQUVDwAdyc3hfYvg/img8534jpeg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Mobiliado"
+  },
+  {
+    "titulo": "Mobiliado",
+    "descricao": "Mobiliado\nCasa de Condomínio\nColégio Naval\nEstrada Vereador Benedito Adelino, Tanguá, Angra dos Reis - RJ\n350m²\n5 quarto",
+    "preco": "R$ 15.000.000",
+    "imagem": "https://s01.jetimgs.com/tnkmRA8ub8l2ozsZx2KLZFTlwdPN4Xt1LyNhKfSdufV_owmniGghdvmPspDREsxU3c1d7Hqq5cEzIW7H2rXO0akl9B5gpFIvN4G1iYERJQU7SSVOAt2DLa0Os6R8Hj-cCNjkVa0kGCLmuLaVX83TZANWN97VBGFUo5B2lM20fBw-qks/img-20250425-wa0046jpg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Mobiliado"
+  },
+  {
+    "titulo": "Mobiliado",
+    "descricao": "Mobiliado\nCasa de Condomínio\nFrade (Cunhambebe)\nCondomínio Porto do Frade, Angra dos Reis - RJ\n350m²\n5 quartos\n6 banheir",
+    "preco": "R$ 16.000.000",
+    "imagem": "https://s01.jetimgs.com/tnkmRAMub8l6ozsZx2KLRHJ59s1k6gVHX3Mgu9rcVkf8tquwvbXgi0PRh5aEVONC_VYm0qkIk2MmbzitHzq1Iko8QJljlGQrvPmtLiUMYOaSR7DZzrJBnhfuSjqVxLdDGOgWY3EiVxzTFvLcqiEKBrXfYxjNJkfJMseoHlH4u906QvsZSg/img4909jpg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Mobiliado"
+  },
+  {
+    "titulo": "Casa",
+    "descricao": "Casa\nIlha Grande\nIlha Sundara, Angra dos Reis - RJ\n1.000m²\n9 quartos\n11 banheiros\nComprar\nR$ 29.999.000",
+    "preco": "R$ 29.999.000",
+    "imagem": "https://s01.jetimgs.com/tnkmRAMuL9l6ozsZ19NrmaX3qJdzFq5PSVmhNG6FyN8yIS9PSm8d9wmHVXFh_Eh0lZ8PXogeDBgDNb5_JGj8rSf5_quRyN3_qoE2XQU1hli7Z6Ro-qrW_1eequJApKLNfimmCmvSgbTEL7SNrUCHNhk-ywPjOTcxCEQjozdEaJTKGNZhxCDG/img7459grandejpeg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Casa"
+  },
+  {
+    "titulo": "Semi-mobiliado",
+    "descricao": "Semi-mobiliado\nCasa\nIlha Grande\nIlha das Palmeiras, Angra dos Reis - RJ\n1.216m²\n10 quartos\n3 banheiros\nComprar\nConsulte",
+    "preco": "Consulte",
+    "imagem": "https://s01.jetimgs.com/tnkmRJMvb8l2oztxNUrzQ1pt-bNTDY6fnuu50yczJ4RAOyNUiB8b84MWs1QhHISS5ZePVCYnvKuAoSy1Jmld8u3fxTpcibjzS0DJF71u_-zY9sFstUGlZ41Xbmw4ejoRdVNRE_rYjKjD_oCTuWKZeOlUSwD3Z6q43kDkKPEmDO-2Sa2G1PQ/whatsappimage2025-05-12at1407451jpeg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Semi-mobiliado"
+  },
+  {
+    "titulo": "Terreno",
+    "descricao": "Terreno\nItanema (Cunhambebe)\nRod. Rio santos, Angra dos Reis - RJ\n2.875m²\nComprar\nR$ 5.000.000",
+    "preco": "R$ 5.000.000",
+    "imagem": "https://s01.jetimgs.com/tnkmRJMvL9l2oztxvRID6aUWkj1r4y5P8Q8FaOc5cSuo6YPv1suT-UeAlCwH7F6x06BWUyKueV9oOSnPtsKGcHuM5RPSEAU-29s8C-x4aYEq88gZF4_MC4fCdQRuBaRgb7FxwhZHQAUjvPoqVigetcjEXfZyT668pbzXW0FOIJ8qGb02wn_k/whatsappimage2025-09-29at114657jpeg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Terreno"
+  },
+  {
+    "titulo": "Casa de Condomínio",
+    "descricao": "Casa de Condomínio\nFrade (Cunhambebe)\nCondomínio Porto do Frade, Angra dos Reis - RJ\n600m²\n10 quartos\n10 banheiros\n5 vag",
+    "preco": "R$ 14.000.000",
+    "imagem": "https://s01.jetimgs.com/tnkmRI8vb8l6oztxNUrz41XlxFMIn96XMqMlNB00-fgwLmvd2bs0qm-smnKHObQKEIZ4HkZl9J0xj-x_4S4RQo27CdqlhaaDRQEJDt-gKnvQhhntlGfFxu2jT5iOwhJpzmDF1-b7jeq2xNDgP-rb1_-BEKujrXbWxLBnJheSGiu2JN5E7dM/img6612jpg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Casa%20de%20Condom%C3%ADnio"
+  },
+  {
+    "titulo": "Mobiliado",
+    "descricao": "Mobiliado\nCasa de Condomínio\nFrade (Cunhambebe)\nCondomínio Porto do Frade, Angra dos Reis - RJ\n638m²\n5 quartos\n6 banheir",
+    "preco": "R$ 20.000.000",
+    "imagem": "https://s01.jetimgs.com/tnkmRA8uL9l2ozsZ19NrTU8sFH6XtisnDIP7tfOlufq3IiNPSm8d84mbUdMjd4i4QGvYXFm85sOWa-fBoevJ3YIdQMoBgXhG_PzsDO2gOzw3TMBBaNq18P5brEELXw9nTM54kM7bjtJuKjd2vW0Sd4k9AIkC6kOZK0TG1GPGG-G2LgqpNqc/img-20251016-wa0244jpg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Mobiliado"
+  },
+  {
+    "titulo": "Mobiliado",
+    "descricao": "Mobiliado\nCasa de Condomínio\nZona Rural\nPortobello, Mangaratiba - RJ\n1.000m²\n5 quartos\n8 banheiros\n10 vagas\nComprar\nR$ 1",
+    "preco": "R$ 19.999.900",
+    "imagem": "https://s01.jetimgs.com/tnkmRJMvb8l6owtxNUoj-zN8Kuvtf4c9n-t58CczT6nB5GGvS2EASREhKlrayZFBc1cxftQACw9v5IjEwPQTWgqRMcg2VjhcfgH9mxEY_cwokA0prm9ERe3kzwZocYutkFdJ9HRKjy-2xtHgP6r5m_6_19OJ7yVpJ2gRTxObHPe3dxKmWvQ/dji0441jpg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Mobiliado"
+  },
+  {
+    "titulo": "Exclusivo",
+    "descricao": "Exclusivo\nMobiliado\nCasa de Condomínio\nPontal (Cunhambebe)\nAvenida do Canto, Angra dos Reis - RJ\n500m²\n5 quartos\n6 banhe",
+    "preco": "R$ 3.700.000",
+    "imagem": "https://s01.jetimgs.com/tnkmRPUvb9l2owt5LfJLY8SIfbALZ1UABIrftXOuGbC_KiJPzA4nqDcHm0GFx9kbywohOiwxyVcDjSKI9Jkuicpht_QcpH9l9xiHU8zRWPQ4yk515hM_dLBldzI6XYUtZSq6bNKWD9EiymHv7qjGtnbQ_dODMcFeyjGYxLH1KNzKw5Cvhg/whatsappimage2022-02-08at1459461jpeg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Exclusivo"
+  },
+  {
+    "titulo": "Mobiliado",
+    "descricao": "Mobiliado\nCasa de Condomínio\nZona Rural\nCond. Itaoca, Mangaratiba - RJ\n1.100m²\n7 quartos\n9 banheiros\n10 vagas\nComprar\nR$",
+    "preco": "R$ 10.000.000",
+    "imagem": "https://s01.jetimgs.com/tnkmRPUvb9l2owt5LfJL-K-Tln_s-V3NKViGh3TgFZCbMOMGluDGyhcmaKqj8HNXNQaFKutAYiPMi774sp5DhhIyr_uncRqsW9iPrM88EvpZc75fgDRKWruP52GBcAu2OMWiwey0eBKFfPTpaGyV9cggCetTWQTIQsyowDBXIJgRGZSgEUA7/img4334jpeg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Mobiliado"
+  },
+  {
+    "titulo": "Casa",
+    "descricao": "Casa\nIlha Grande\nILHA DO CAVACO, Angra dos Reis - RJ\n7 quartos\n8 banheiros\nComprar\nR$ 24.000.000",
+    "preco": "R$ 24.000.000",
+    "imagem": "https://s01.jetimgs.com/tnkmRI8vb8l6oztxNUqzTkIhWPrXtEuvOwI3UzY_V2f89auwvTXgmwN-4JoMhe_zfMfn5mp25-UGbPgtHjszLqQfOJdhdPb5c8m1bbkNYw2C-NbdIrGHm8AMJyEZvJcspnGXHdQl4UdQ7mtUPPrH_3HQo4iEHlU_Ye-6CuvxDdyMU7iHnQ/whatsappimage2026-01-20at135358jpeg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Casa"
+  },
+  {
+    "titulo": "Casa",
+    "descricao": "Casa\nPontal (Cunhambebe)\nRua Angra Azul, Angra dos Reis - RJ\n354m²\n5 quartos\n2 banheiros\nComprar\nConsulte",
+    "preco": "Consulte",
+    "imagem": "https://s01.jetimgs.com/tnkmRPUvb9l2owt5LfJLeLKT1h5Fr-Sm0EeZoZ7eIGs1eTx3wk0d3f6vxXLjOTTFEIYInoYC8J0h_Lqm8K0BQpGzSSLo1T_APYG8HQFyrPO6B67-pAZV7XxMb4wYbXooBVHNAbPYjKjC8ICTueL3ZemUAq772YdyB-uahHImF1i2cu1Qzwc/whatsappimage2026-01-15at091552jpeg.webp",
+    "link": "",
+    "whatsapp": "https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20Casa"
   }
 ]
