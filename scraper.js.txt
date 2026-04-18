@@ -1,33 +1,13 @@
-const axios = require("axios");
-const cheerio = require("cheerio");
-const fs = require("fs");
+const titulo =
+  el.querySelector("h2")?.innerText ||
+  el.querySelector("h3")?.innerText ||
+  el.innerText.split("\n")[0] ||
+  "Imóvel";
 
-const URL = "https://www.canaaimoveisangra.com.br/venda";
+const preco =
+  el.innerText.match(/R\$[\s\d\.,]+/)?.[0] ||
+  "Consulte";
 
-async function scrape() {
-  const { data } = await axios.get(URL);
-  const $ = cheerio.load(data);
-
-  const imoveis = [];
-
-  $(".property-item").each((i, el) => {
-    const titulo = $(el).find(".title").text().trim();
-    const preco = $(el).find(".price").text().trim();
-    const link = $(el).find("a").attr("href");
-    const imagem = $(el).find("img").attr("src");
-
-    imoveis.push({
-      id: i,
-      titulo,
-      preco,
-      link,
-      imagem,
-      whatsapp: `https://wa.me/5524992799078?text=Olá,%20tenho%20interesse%20em%20${titulo}`
-    });
-  });
-
-  fs.writeFileSync("data/imoveis.json", JSON.stringify(imoveis, null, 2));
-  console.log("Imóveis salvos em data/imoveis.json");
-}
-
-scrape().catch(console.error);
+const descricao =
+  el.querySelector("p")?.innerText ||
+  el.innerText.slice(0, 120);
